@@ -1,0 +1,16 @@
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.exe
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.deps.json
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.runtimeconfig.json
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.runtimeconfig.dev.json
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.dll
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\ref\exemplo_01.dll
+E:\WS2021\c#\exemplo_01\bin\Debug\net5.0\exemplo_01.pdb
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.csproj.AssemblyReference.cache
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.AssemblyInfoInputs.cache
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.AssemblyInfo.cs
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.csproj.CoreCompileInputs.cache
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.dll
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\ref\exemplo_01.dll
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.pdb
+E:\WS2021\c#\exemplo_01\obj\Debug\net5.0\exemplo_01.genruntimeconfig.cache
